@@ -1,0 +1,72 @@
+﻿'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Users\aquintana\source\repos\PRIMER_PROYECTO_C++\Debug\PRIMER_PROYECTO_C++.exe' cargado. Símbolos cargados.
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. Símbolos cargados.
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\win32u.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Users\aquintana\source\repos\PRIMER_PROYECTO_C++\Debug\SDL2.dll' cargado. El módulo se compiló sin símbolos.
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\gdi32full.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\msvcp_win.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbase.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' descargado
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' descargado
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\imm32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ole32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\combase.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\oleaut32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\cfgmgr32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\SHCore.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\windows.storage.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\shlwapi.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\profapi.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\powrprof.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\fltLib.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\winmm.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\winmmbase.dll' descargado
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\uxtheme.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\msctf.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\dwmapi.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\TextInputFramework.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\CoreUIComponents.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\CoreMessaging.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ntmarta.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\WinTypes.dll' descargado
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\clbcatq.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\d3d9.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_c4f600ffe34acc7b\igdumdim32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_c4f600ffe34acc7b\igd9dxva32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\SysWOW64\ResourcePolicyClient.dll' descargado
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_c4f600ffe34acc7b\igdinfo32.dll' cargado. 
+'PRIMER_PROYECTO_C++.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_c4f600ffe34acc7b\igc32.dll' cargado. 
+El subproceso 0x3360 terminó con código 0 (0x0).
+El subproceso 0x4350 terminó con código 0 (0x0).
+El subproceso 0x460c terminó con código 0 (0x0).
+El subproceso 0xe2c terminó con código 0 (0x0).
+El subproceso 0x3c74 terminó con código 0 (0x0).
+El subproceso 0x22bc terminó con código 0 (0x0).
+El subproceso 0x1f38 terminó con código 0 (0x0).
+El subproceso 0x3570 terminó con código 0 (0x0).
+El subproceso 0x3b04 terminó con código 0 (0x0).
+El subproceso 0x2a2c terminó con código 0 (0x0).
+El programa '[10616] PRIMER_PROYECTO_C++.exe' terminó con código 0 (0x0).
